@@ -476,6 +476,28 @@ nav {
     line-height: 1.8;
 }
 
+.pricing-message {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f0f8f0 0%, #ffffff 100%);
+    border-radius: 10px;
+    border: 2px solid #007000;
+    text-align: center;
+}
+
+.pricing-message p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #1a1a1a;
+    font-weight: 500;
+    margin: 0;
+}
+
+.pricing-message .gym-name {
+    color: #1a1a1a;
+    text-shadow: none;
+}
+
 /* About Section */
 .about {
     padding: 2rem 2rem;
